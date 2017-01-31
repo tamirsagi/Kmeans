@@ -17,3 +17,4 @@ Note:
 Configure project preferences for MPI(include, lib paths)
 Configure project preferences for cuda
 Enable open-mp flag within visual studio
+
